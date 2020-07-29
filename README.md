@@ -1,10 +1,2 @@
-# Welcome to my GitHub profile 👋
+![Readme](https://media.giphy.com/media/RLVshIBuFX0MyW4wJf/giphy.gif)
 
-
-My profile contains a variety of things that I've worked on over the years. 
-
-## Tensor networks
-
-During my master thesis I've used tensor networks to study many-body quantum phenomena. You can find my master's thesis and some of the code that I've developed during that time.
-
-## Machine learning
