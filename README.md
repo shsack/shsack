@@ -3,6 +3,6 @@
 
 My profile contains a variety of things that I've worked on over the years. 
 
-# Tensor networks
+## Tensor networks
 
-# Machine learning
+## Machine learning
